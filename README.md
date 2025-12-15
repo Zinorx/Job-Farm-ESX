@@ -4,6 +4,8 @@ Script de farm Orange et Bois full customable ! OX_INVENTORY
 #Blips, Point de recolte, traitement et vente !
 
 #item ox_inventory : 
+
+
 ['orange'] = {
 	label = 'Orange',
 	weight = 100,
